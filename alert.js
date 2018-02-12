@@ -1,1 +1,1 @@
-alert('ye')
+alert('ye');
